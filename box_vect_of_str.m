@@ -1,4 +1,4 @@
-function [vector_of_string_out] = box_xy(vector_of_string, r_lu, c_lu, w, h)
+function [vector_of_string_out] = box_vect_of_str(vector_of_string, r_lu, c_lu, w, h)
     % box_xy crea un box rettangolare nella posizione r_lu,c_lu di larghezza w
     % e altezza h.
     % r-lu e c_lu stanno per riga e colonna in alto a sinistra
